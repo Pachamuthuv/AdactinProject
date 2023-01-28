@@ -5,38 +5,6 @@ public class Login {
 		
 
 	}
-	private void SerachHotel() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cloneOne() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cloneTwo() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cloneThree() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cloneFour() {
-		// TODO Auto-generated method stub
-
-	}
-	private void cloneFive() {
-		// TODO Auto-generated method stub
-
-	}
-
-	
-	
-	
-	
-	
-	
-	
 	
 	private void methodOne() {
 		// TODO Auto-generated method stub
@@ -67,6 +35,27 @@ public class Login {
 
 	}
 	private void muthuFive() {
+		// TODO Auto-generated method stub
+
+	
+	}
+	private void cloneOne() {
+		// TODO Auto-generated method stub
+
+	}
+	private void cloneTwo() {
+		// TODO Auto-generated method stub
+
+	}
+	private void cloneThree() {
+		// TODO Auto-generated method stub
+
+	}
+	private void cloneFour() {
+		// TODO Auto-generated method stub
+
+	}
+	private void cloneFive() {
 		// TODO Auto-generated method stub
 
 	}
